@@ -1,7 +1,7 @@
 # DDBookOfPandora
 Android application for creating and storing creatures for D&amp;D including simplifying calculations involved in battle encounters.
 D&D BOOK OF PANDORA - a DM creature management app.
-developed by Dariusz Szoltys
+Developed by Dariusz Szoltys
 
 			GENERAL INFORMATION
 
